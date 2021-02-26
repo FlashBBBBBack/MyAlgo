@@ -1,0 +1,13 @@
+F:\UnityPro\MyAlgorithms\csharp\A002\bin\Debug\netcoreapp3.1\A002.exe
+F:\UnityPro\MyAlgorithms\csharp\A002\bin\Debug\netcoreapp3.1\A002.deps.json
+F:\UnityPro\MyAlgorithms\csharp\A002\bin\Debug\netcoreapp3.1\A002.runtimeconfig.json
+F:\UnityPro\MyAlgorithms\csharp\A002\bin\Debug\netcoreapp3.1\A002.runtimeconfig.dev.json
+F:\UnityPro\MyAlgorithms\csharp\A002\bin\Debug\netcoreapp3.1\A002.dll
+F:\UnityPro\MyAlgorithms\csharp\A002\bin\Debug\netcoreapp3.1\A002.pdb
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.csprojAssemblyReference.cache
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.AssemblyInfoInputs.cache
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.AssemblyInfo.cs
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.csproj.CoreCompileInputs.cache
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.dll
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.pdb
+F:\UnityPro\MyAlgorithms\csharp\A002\obj\Debug\netcoreapp3.1\A002.genruntimeconfig.cache
